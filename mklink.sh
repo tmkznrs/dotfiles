@@ -6,3 +6,4 @@ ln -s `pwd`/screenrc ~/.screenrc
 ln -s `pwd`/pythonstartup ~/.pythonstartup
 ln -s `pwd`/emacs.d ~/.emacs.d
 ln -s `pwd`/ssh ~/.ssh
+chmod 700 ssh
