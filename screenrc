@@ -1,0 +1,10 @@
+# screen startup file
+
+# Don't display startup message.
+startup_message off
+
+# Always display the caption.
+caption always "%?%F%{= wk}%:%{= ww}%?%-w%{=u Wk}%n %t%{-}%+w"
+
+# Change escapte key to ^Z
+escape ^Zz
